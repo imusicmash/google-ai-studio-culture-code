@@ -1,14 +1,5 @@
-# Run and deploy your AI Studio app
+# AI Studio test app
 
-This contains everything you need to run your app locally.
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+Test ai studio I built to find the maxims in The Culture Code book and show examples
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
