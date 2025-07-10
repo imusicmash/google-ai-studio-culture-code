@@ -1,0 +1,18 @@
+export const MAXIMS: string[] = [
+  "Read the guest",
+  "Athletic hospitality",
+  "Writing a great final chapter",
+  "Turning up the Home Dial",
+  "Loving problems",
+  "Finding the yes",
+  "Collecting the dots and connecting the dots",
+  "Creating raves for guests",
+  "One size fits one",
+  "Skunking",
+  "Making the charitable assumption",
+  "Planting like seeds in like gardens",
+  "Put us out of business with your generosity",
+  "Be aware of your emotional wake",
+  "To get a hug, you have to give a hug",
+  "If it ain't broke, fix it",
+];

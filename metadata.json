@@ -1,0 +1,5 @@
+{
+  "name": "The Culture Code Maxim Explorer",
+  "description": "An interactive web app that explores the key maxims from Daniel Coyle's 'The Culture Code'. Select a maxim to receive an AI-generated explanation and illustrative stories from the book.",
+  "requestFramePermissions": []
+}
